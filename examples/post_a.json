@@ -1,0 +1,26 @@
+{
+ "format": "mintree/1",
+ "title": "UBI: yes or no?",
+ "root": {
+  "id": "t3_aaa",
+  "text": "UBI: yes or no?\n\nCurious where people stand.",
+  "score": 120,
+  "children": [
+   {
+    "id": "t1_a1",
+    "text": "No. UBI would cause inflation because everyone suddenly has more money to spend.",
+    "score": 50,
+    "children": [
+     {"id": "t1_a1r1", "text": "Not if it is funded by taxes, the money supply does not change.", "score": 20, "children": []},
+     {"id": "t1_a1r2", "text": "This.", "score": 5, "children": []}
+    ]
+   },
+   {
+    "id": "t1_a2",
+    "text": "Yes. UBI gives people the freedom to leave abusive jobs.",
+    "score": 30,
+    "children": []
+   }
+  ]
+ }
+}

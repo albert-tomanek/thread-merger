@@ -1,0 +1,9 @@
+openai>=1.40
+pydantic>=2.6
+numpy>=1.26
+praw>=7.7  # fetch_reddit.py only
+pytest>=8  # tests only
+
+# Option A (not yet implemented):
+# sentence-transformers>=3.0
+# scipy>=1.11

@@ -1,0 +1,422 @@
+{
+ "format": "mintree/1",
+ "title": "Is UBI really a good idea?",
+ "source": "https://www.reddit.com/r/economy/comments/1qr85eo/is_ubi_really_a_good_idea/",
+ "root": {
+  "id": "t3_1qr85eo",
+  "text": "Is UBI really a good idea?\n\nCurious to gather thoughts from supporters of Universal Basic Income.\n\nThe concept of UBI is floated as supporting the bottom 90%/99% by essentially guaranteeing a baseline income. **While I'm all for policies that do more to support that socioeconomic cohort**, from a leftist perspective, I have some doubt that UBI is the best methodology to do so, at least in the United States. A few reasons why:\n\n* **UBI would be inflationary**: unless paired with myriad other policies, giving people more cash would increase general spending power and just drive up prices. Introducing price caps would be one solve but that would be incredibly difficult to control.\n* **UBI would increase corporate subsidies**: We already see one downside with SNAP benefits in the US where tens of millions of recipients are full-time workers paid a shit salary that cannot cover their basic needs. Taxpayers are essentially subsidizing Amazon's payroll. UBI would increase that subsidy without other changes.\n* **Corporations would lay off more people**: We could increase the minimum wage too, and this would help to a point (I'm all for a minimum wage increase!). But then corporations would be hyper-incentivized to lay off more people. They'd be looking for any opportunity to do so at all and reduce the amount they hire, cutting jobs.\n* **Corporations would offshore more work**: Similarly, corporations forced to pay a higher minimum wage would just offshore their labor. We've already seen this over the last few decades as labor becomes incredibly cheap elsewhere. \n* **Workloads would increase significantly**: There would be some jobs that can't be offshored (Amazon delivery drivers, etc.) but as those job listings decrease / are offshored and work becomes more scarce, workloads increase significantly. Amazon delivery drivers are already peeing in bottles to make ends meet.\n\nThese are just some of my concerns. Maybe there's a way around these challenges with potential additive solutions? I'd be very curious to learn more.\n\nI'm a larger advocate of a national job guarantee, in which the government (via local community allocation) would guarantee jobs for all Americans able to work. This would provide the same benefits to people while counteracting these issues:\n\n* **Inflation wouldn't increase** as new guaranteed-salary jobs would be tied to additional work. People either not earning income or earning poor income could take a new role with this government agency and produce while earning.\n* **Labor power would significantly increase**. Instead of being forced to take a shit role at Amazon working 80 hours a week in shit conditions, they'd have an alternative. To remain viable, corporations would essentially have to offer better working conditions, salaries, and benefits.\n* **Corporations can still offshore work, but it wouldn't matter.** Jobs would be guaranteed anyways.\n* **Workloads would** ***decrease.*** If all people were guaranteed a job at a level above the true poverty line, we could fulfill the same amount of output with more workers. Instead of one guy working 50 hours a week, you could have two at 25 each while still being paid full salaries.\n* **Work could be directed towards productive ends.** Instead of a bunch of what David Graeber calls \"Bullshit Jobs\", a job guarantee would have job openings reviewed and determined based on what's best for the community. We'd have more teachers, nurses, infrastructure, etc. because work wouldn't be based on what's profitable but what's needed.\n\nVery open to (respectful) disagreements here! Would love to hear other's thoughts as I sharpen my view.",
+  "score": 0,
+  "children": [
+   {
+    "id": "t1_o2m8lu9",
+    "text": "Is it a \"universal\" basic income if it only applies to the bottom 10% or is it just welfare trying to be rebranded in a cooler sounding name?\n\nOne of the key points of UBI was supposed to be that cash payments has far less administrative hassle and costs than standard welfare programs and gives more freedom to participants on how to spend it. But no one is actually advocating to replace welfare with it, rather they want it on top of existing benefits.",
+    "score": 5,
+    "children": [
+     {
+      "id": "t1_o2mcqbw",
+      "text": "Ideally, UBI would scale down as your earned income rises, but at a slower pace so there is always an incentive to earn more. \n\nAnd yes, everyone who advocates for UBI sees it as a replacement for the myriad of welfare and social assistance programs. The reason it’s more efficient is mostly because current programs require a massive administrative apparatus to determine if people qualify for the program. There is also significant overlap and duplication of services.",
+      "score": 2,
+      "children": [
+       {
+        "id": "t1_o2mm6rs",
+        "text": "Yeah agreed on this point. The requirements to qualify for SNAP benefits, say, are insane.\n\nAlso certain types of disability are incredibly difficult to secure and can be cancelled erroneously and arbitrarily. Then the person has to restart the entire application process through no fault of their own with low chances of success.",
+        "score": 1,
+        "children": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "t1_o2mduuf",
+    "text": "“UBI would be inflationary: unless paired with myriad other policies, giving people more cash would increase general spending power and just drive up prices. Introducing price caps would be one solve but that would be incredibly difficult to control.”\n\nAbsolutely not. \n\nUBI does not change the amount of money circulating through the economy. It only redistributes it. Therefore it should have no inflationary pressure. \n\n“Workloads would increase significantly: There would be some jobs that can't be offshored (Amazon delivery drivers, etc.) but as those job listings decrease / are offshored and work becomes more scarce, workloads increase significantly. Amazon delivery drivers are already peeing in bottles to make ends meet.”\n\nThis fundamentally misunderstands UBI. \n\nIf anything, it puts MORE power in the hands of the worker and less in the hands of the corporation. Today, companies can depend on the desperation of their workers to push them harder. UBI removes that desperation. The Amazon delivery driver isn’t gonna have to pee in a bottle to make ends meet because his ends were met before he started work.",
+    "score": 6,
+    "children": [
+     {
+      "id": "t1_o2mlshp",
+      "text": "On your first point, how? You’re saying UBI paired with a tax increase (which would be necessary under a job guarantee as well!)\n\nOn your second point, I think that would depend on the scale of UBI, no? I’m referencing proposals we’ve seen to provide a few thousand bucks here and there, not fundamentally replacing full incomes up to a certain threshold.\n\nIf the latter, agreed! I think it makes it incredibly difficult to then get done politically though.",
+      "score": 1,
+      "children": [
+       {
+        "id": "t1_o2n0urg",
+        "text": "I’m not sure what a tax increase has to do with inflationary pressure. We aren’t putting more money into the system. We are just redistributing it more efficiently and effectively. \n\nThe proposals you have seen are pilot programs meant to assess how UBI money is spent. A full-scale UBI program would be designed to provide enough income for a person to live on. \n\nThe thing people tend to ignore is the total cost of poverty, which isn’t just the cost of welfare. It’s the health care costs that come from the stress of living in poverty. It’s the criminal justice costs that come from the desperation of living in poverty.\n\nOf course, the US is probably the last developed country on earth that would even consider this because of its warped view of social welfare. You can’t even convince Americans to adopt universal health care. You will never get them to adopt universal income.",
+        "score": 1,
+        "children": [
+         {
+          "id": "t1_o2n1iyk",
+          "text": "Couldn't agree more with the last two paragraphs. It's embarrassing to be an American. We can't even convince poor people to vote for increased taxes on the rich / closing insane tax loopholes that would increase revenue for programs that would help them. Beyond me how that's happened.\n\nTo your first statement – how would a workable UBI program work, then? Where would the cash come from being distributed? Unless you're suggesting we cut budget from elsewhere and distribute.",
+          "score": 1,
+          "children": [
+           {
+            "id": "t1_o2n6hj0",
+            "text": "First it would come from eliminating all spending on other income support programs. That right there is around $1 trillion per year. You can also cut food assistance programs, reduce spending on housing assistance programs, job placement programs, and literally thousands of other programs that seek to provide support to the poor. \n\nNext, we can expect that within 4-5 years, we would see dramatic reductions in crime and improvement in health, reducing spending on police and medical services. \n\nAnd yes, it would likely come from a tax increase on the highest income earners in the country. Our top tax brackets are absurdly low. And I’d like to re-think how we treat capital gains because not all risk is equal, but we tax it like it is. If a stock is stable enough to be used as collateral for a loan, it is stable enough that whatever revenue it generates should be treated as income and not as capital gains. \n\nLook at it like this…over the past 40 years or so, income inequality has grown substantially in this country. The percentage of wealth going to the wealthy has grown and the percentage going to everyone else has declined. UBI is the only tool that has the potential to re-balance those scales.",
+            "score": 1,
+            "children": [
+             {
+              "id": "t1_o2ngi9f",
+              "text": "While I see your point, that feels highly speculative and would require an insane amount of buy-in across the political spectrum that just does not exist. For that version of UBI to exist we'd need to overhaul how the entire economy works. Anything less than that and it'd fail.\n\n>First it would come from eliminating all spending on other income support programs. That right there is around $1 trillion per year. \n\nWhich I don't think would get us there. To provide every single American with a UBI of even 50,000 per year (which is well below the true poverty line) would cost $1.75T. We'd have to cut a significant amount of spending elsewhere + raise taxes. Plus, the cut you're suggesting would include cutting Medicaid but we'd need to also fund our medical system and the like, unless we'd pay out of pocket for that.\n\nBanking on that drastic of a reduction in law enforcement spending in just a few years is almost entirely unfeasible, too. Banking on a lot of \"what ifs\" there. Also still unsure how this wouldn't be inflationary – people would be able to spend money at their discretion, rather than on basic necessities or healthy choices. Many, many studies show that this is a *terrible* *idea*. People are really bad, in general, at spending prudently.\n\nAlso doesn't answer how this would be anti-inflationary? We'd basically be slashing welfare programs (which is fine if it's replacing one check with another) but that would also include subsidies for things like healthcare. I don't see how that would help. We'd basically be removing subsidized programs and pouring cash into the economy. Prices would jump immediately with subsidies removed and with the knowledge that there's a ton more free-floating cash that can be spent anywhere in people's pockets.\n\nThis would have to be *paired* with subsidies to bring down the costs of basic necessities. IMO that might even be a better idea than a job guarantee: essentially make healthy food, healthcare, education, and all other necessities free or extremely low-cost. That's anti-inflationary as it does not increase liquidity substantially.",
+              "score": 1,
+              "children": []
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "t1_o2mztir",
+      "text": "These people can never grasp what money supply is and how it works. \n\nThey always want to blame it on workers who never control the money supply.",
+      "score": 1,
+      "children": []
+     }
+    ]
+   },
+   {
+    "id": "t1_o2m83dz",
+    "text": "The idea that government can efficiently allocate millions of jobs based on \"what's needed for the community\" assumes a level of central planning competence that doesn't exist anywhere in the world, and historically these programs become patronage machines that create makework rather than productive output. UBI needs to be paired with stronger labor standards, anti-monopoly enforcement, and policies that address housing costs specifically, because that's where most inflationary pressure would show up. I'm not against it in principle, but  it requires a level of policy coordination and competence that seems unlikely given how government actually functions.",
+    "score": 4,
+    "children": [
+     {
+      "id": "t1_o2mmz3e",
+      "text": "I don’t think it should be centrally planned! Allocation should be done at a local level and be consistently and democratically reviewed, in an ideal world. The details of which would be crucial to ensure we aren’t creating unnecessary jobs.\n\nThat being said, the system we have today creates an immense amount of arbitrary work, as David Graeber’s  Bullshit Jobs points out.\n\nYeah agreed re: UBI policy coordination. We’d essentially turn into a centralized state-run economy trying to balance a ton of administrative tasks if that were the case. IMO less administration required to decentralize a job guarantee.\n\nJob guarantee could also apply to a non-universal subset at first. If you’re unemployed for x number of months OR a veteran, similar.",
+      "score": 1,
+      "children": []
+     }
+    ]
+   },
+   {
+    "id": "t1_o2munus",
+    "text": "I would prefer people had good opportunities to do useful work or grow a small business with hope for a better future.  People must work or nobody has food, clothes or shelter, and idle hands are the devil's workshop.  Non productive work is way over valued and work that produces tangible assets is way under appreciated.",
+    "score": 1,
+    "children": [
+     {
+      "id": "t1_o2mvptj",
+      "text": "I think people deserve to stay alive either way and the government is responsible in doing so. We do not need to earn our right to live. However, this is what I'm getting at – providing those opportunities. \n\n>Non productive work is way over valued and work that produces tangible assets is way under appreciated.\n\nA public job guarantee to would fit the bill here. Our current economy produces so many jobs that, if they disappeared tomorrow, nothing would change at all. Too many box-checkers checking boxes to ensure boxes are checked. Better to direct that work towards something productive that isn't driven by profit, which ultimately ends up in the hands of the wealthy without driving tangible assets for all.",
+      "score": 1,
+      "children": []
+     }
+    ]
+   },
+   {
+    "id": "t1_o2mwn3z",
+    "text": "Buckminster Fuller, the polymath genius from the 60s, had an idea about how to flatten income disparity and boost creative initiatives at the same time. He suggested a no-strings grant of $10000 (in 1960s dollars) to anyone who applies. The intent is to provide money for people to build things, invent, create art etc. Some would use it to eat hamburgers but that too is valid. His thinking was that the few genius inventors who create something of value would outweigh the hamburger eaters. It could fund college tuition or be seed money for small businesses.",
+    "score": 1,
+    "children": [
+     {
+      "id": "t1_o2mxfbu",
+      "text": "The idea here being anyone who applies for the grant for any purpose at all can have it? Do they need to actually propose anything, or just...have the cash?\n\nWhat's the difference between that and UBI?",
+      "score": 1,
+      "children": [
+       {
+        "id": "t1_o2t42uk",
+        "text": "I think this was the original spitball idea that led to the Buckminster Fuller Challenge which is now a grant for $100000 given to one deserving person. Fuller's thinking was to have it be almost free cash. The trick would be to try to maximize the actual creative ideas that ultimately generate value and minimize those who used it for survival only. Here is the link to the current Grant, [https://en.wikipedia.org/wiki/Buckminster\\_Fuller\\_Challenge](https://en.wikipedia.org/wiki/Buckminster_Fuller_Challenge)",
+        "score": 1,
+        "children": [
+         {
+          "id": "t1_o30wh0t",
+          "text": "Seems cool and all, also very familiar with Allan Savory’s work (‘09 winner)!\n\nBut very limited in scope compared to UBI.",
+          "score": 1,
+          "children": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "t1_o2n1579",
+    "text": "[removed]",
+    "score": 1,
+    "children": [
+     {
+      "id": "t1_o2n2q2b",
+      "text": "Raises a good question on qualification. How do we determine who gets UBI (or a job guarantee) and who doesn't? Is it just citizens? What about greencard holders? How would that also impact immigration in general?\n\nAll good points.",
+      "score": 1,
+      "children": []
+     }
+    ]
+   },
+   {
+    "id": "t1_o2n60xy",
+    "text": "UBI would only become a thing once everybody loses their jobs to automation. But your goal is to force guaranteed work? What are they going to do if there is nothing to do? The logic doesn’t make sense.",
+    "score": 1,
+    "children": [
+     {
+      "id": "t1_o2nd2d0",
+      "text": "Well for one, work less. Why do we all need to be working 40+ hours a week, especially when supported by automation?\n\nFor another, not all jobs can be automated and not all jobs should be automated. I don't want my kids to learn from an LLM. Nursing (which has a shortage), farming, teaching, plenty of hands-on work, psychiatry, social services, the rest of the medical field, not to mention the arts, etc.\n\nAutomation is more likely going to eliminate *parts* of jobs, not jobs entirely. This should free us up to do more valuable work, much like the computer revolution has.",
+      "score": 1,
+      "children": [
+       {
+        "id": "t1_o2ng6fd",
+        "text": "Yeah I wasn’t even really making those points. There will not be enough jobs to go around. That’s the whole point of discussing UBI. If jobs are plentiful, then we wouldn’t be talking about this would we?",
+        "score": 1,
+        "children": [
+         {
+          "id": "t1_o2nj52p",
+          "text": "What? You said \"But your goal is to force guaranteed work? What are they going to do if there is nothing to do?\"...and I responded by saying there will be plenty to do. Unsure how you could have missed the part where my response was a direct reply to your statement but OK cool.\n\n>There will not be enough jobs to go around. That’s the whole point of discussing UBI.\n\nNo, it's not. It's to guarantee that people have a baseline level of survival rather than being allowed to die for the sake of profit that they'll never see anyways. It's that we shouldn't be required to scrape by busting our asses for incredibly low income for the sake of \"work\" that doesn't actually add value to society, just lines the pockets of capital owners.",
+          "score": 1,
+          "children": [
+           {
+            "id": "t1_o2nl7rk",
+            "text": "There will not be enough jobs for the entire working class. It’s silly of you to think that",
+            "score": 1,
+            "children": [
+             {
+              "id": "t1_o2nlg9n",
+              "text": "Let's assume what you say is true. Then there won't be enough jobs either way, will there?\n\nWhat's the plan then?",
+              "score": 1,
+              "children": []
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "t1_o2njdyc",
+    "text": "UBI is very unlikely until there's a mass civil movement against the ruling class.\n\nJob guarantee would be much better though nobody has done it right in recent history, the only program trial i've read about is paying employers to add an extra position though the way the USA subsidizes farmers is almost a job guarantee program.  The CCC a century ago did it right but even that was nowhere near large enough to employ everyone unable to find a job.\n\nIf things get bad I could see increased subsidies for subsistence lifestyle being more likely and cheaper at least from a government perspective but that'd be detrimental to the overall economy.",
+    "score": 1,
+    "children": [
+     {
+      "id": "t1_o2nkvib",
+      "text": "Yeah probably right! I think subsidies for basic necessities is probably the first step: reduce the cost of staying alive for all Americans first.\n\nI think with a job guarantee, you could probably start with a subset population that would also be politically viable. Like, if we introduced a public job guarantee for all veterans of at least 5 years, I think that's popular across both sides of the aisle and allows for the program to be piloted. If effective for those vets, expand the program to other groups.",
+      "score": 1,
+      "children": []
+     }
+    ]
+   },
+   {
+    "id": "t1_o2nlos3",
+    "text": "One needs to move from the Econ 101 simplistic version of inflation that says \"x monetary policy creates inflation\" without ever explaining precisely how that happens, and start looking at the genuine creators of inflation: the corporate executives who decide what to charge for goods and services. Inflation doesn't magically happen with no human input. CEOs don't discover that suddenly their companies are charging more. It is they who decide when to raise prices by how much, and what excuse they will use to justify the price increases rather than admit to simple greed. Sycophantic economists produce charts, hypotheses, and complicated formulae to cover for them, because that is what they are paid, and paid well, to do.\n\nIn the end, inflation is due to a small number of people who just want more wealth and power. They raise prices because they can, charging whatever \"the market can bear\", forcing prices up, because not doing so \"leaves money on the table\". It doesn't matter in the least what monetary policies are so long as the extremely wealthy and powerful; can buy those policies, they are all bent to concentrate wealth and power.",
+    "score": 1,
+    "children": [
+     {
+      "id": "t1_o2nm8yf",
+      "text": "I mean ignoring the implied insult there lol...that's kinda what I'm talking about.\n\nMore money being poured into the economy increases \"what the market will bear\". That's also how interest rates work. When interest rates are lower, there's more easy cash available and spending increases such that the capitalist class can increase prices. That is how that works.\n\nUBI would be a similar dynamic, IMO. If all of a sudden everyone has an additional $X per month, prices will increase unless other policies are implemented to prevent that.",
+      "score": 1,
+      "children": [
+       {
+        "id": "t1_o2novo1",
+        "text": "You are ignoring that fact that inflation requires a human being to decide to raise prices. It is not and cannot be simply a result of more money in the system. It is the *perception* that more money in the system that allows a few to decide to raise prices, forcing others to do likewise. The amount of money in the system can't do anything at all to force prices up all by itself. It requires conscious decisions by people who actually control the prices, and have enough of a monopoly to force acceptance of higher prices.\n\nExplain to me, please, how inflation can occur without any human control or input other than to add money to the system while ignoring that fact that new people are also being added to the system, so the ratio of money to number of persons in the population might actually go down or remain stable. That seems a factor that economists ignore, so far as I can see.",
+        "score": 1,
+        "children": [
+         {
+          "id": "t1_o2np93n",
+          "text": "I'm not ignoring that, I'm agreeing with you lmao.\n\nTheir *perception* would change if we had UBI. Capital owners would *perceive* that people have more cash and therefore raise prices.",
+          "score": 2,
+          "children": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "t1_o2nm4l6",
+    "text": "Why waste money paying people to pretend to work (a \"jobs guarantee\") when you can just give them money?",
+    "score": 1,
+    "children": [
+     {
+      "id": "t1_o2nmgkp",
+      "text": "The first five bullets of this post literally goes into detail on why.",
+      "score": 1,
+      "children": [
+       {
+        "id": "t1_o2nmwby",
+        "text": "Here's the problem: this won't create more nurses or teachers. It will create fake jobs where people who go to a building and sit around all day and then you pay them. Instead of wasting their time and wasting more money on administrative costs I prefer just cutting people and a check and what they do is their business.",
+        "score": 1,
+        "children": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "t1_o2qhq8t",
+    "text": "UBI isn't inflationary, production is cheap, almost everything you buy is at a steep mark up and crazy expensive, or cost is near that of production and it's crazy cheap (TV). We are very good at producing what we need and want with very little labor. \n\nThe rentier class making things expensive don't really care about jobs or capital or the citizenry; they care about their own legal privileges to unearned income. They spend their time with lawyers and politicians buying new legal privileges at the expense of the legal rights everyone else. If you think of the upper class as capitalists you fundamentally misunderstand modern class warfare. Capital depreciates, it requires risk and effort to manage productively. Capital owners and managers work with labor towards the same goal of producing more with less, so there is more for everyone. Rent seekers limit supply to make what they own valuable, by buying privileges over markets (such as fixed assets, land, IP, mining rights, export rights, charging stations rights, etc), or destroying other markets.\n\nUBI is not a corporate subsidy, it is a grassroots business subsidy; literally funding local production as an alternative to corporate and established landlord models. Everyone is being consolidated into high cost of lining areas to be near jobs. We actually have lots of under used housing and infrastructure without jobs to support it. We also have lots of land to build new approaches to infrastructure and jobs, and see what people like; and to create real novel durable economic growth, outside established ownership. \n\nI kind of hate jobs guarantees, as a solution to poverty, or production; that's just not what they will do in this point in time. Inserting more/forced democracy during high polarization, is not good for local communities. People also need to vote with their feet and their wallets, when it comes to jobs and housing. Go to where the opportunity you want is, works for way more people than getting everyone to agree to local job opportunities you need, before you can vote with your wallet and feet. I like jobs programs for the sake of local environmental, educational and productive, solidarity projects in general, but UBI is better for poverty, agency, stress, social mobility, economics, democracy, etc. Also in my experience most of us pro UBI people are also pro universal healthcare and free higher education; as all these things can grow the tax base by more than they cost, over the long term; and reinforce each other, further growing the tax coffers (in a high capacity state).",
+    "score": 1,
+    "children": []
+   },
+   {
+    "id": "t1_o2r4ce6",
+    "text": "I think you aren't factoring in the driving factor. they're wont be a lot of work. The work being done at efficiency and productivity that can exceed demand, it needs a base of consumers. The UBI would essentially be circulatory and used to drive the economy. With all this newfound  free time, Universal Basic Income and free  time to party, people are going to make more babies. It'll take a steady rate of population growth and increase in consumption to keep demand for AI and non-human generated productivity. It'll keep the population free, fat and fornicatory, just enough to reproduce and not rebel.",
+    "score": 1,
+    "children": []
+   },
+   {
+    "id": "t1_o2t5bp0",
+    "text": "Here is a story about what happened when the City of Stockton, California instituted a form of UBI: [https://www.npr.org/2021/03/04/973653719/california-program-giving-500-no-strings-attached-stipends-pays-off-study-finds](https://www.npr.org/2021/03/04/973653719/california-program-giving-500-no-strings-attached-stipends-pays-off-study-finds)\n\nHere is an article about UBI initiatives in other states across the country: [https://www.newsweek.com/map-states-universal-basic-income-programs-2025-2103554](https://www.newsweek.com/map-states-universal-basic-income-programs-2025-2103554)\n\nand here is the Wikipedia about Alaska's UBI-like fund and how it affects the economy: [https://en.wikipedia.org/wiki/Alaska\\_Permanent\\_Fund](https://en.wikipedia.org/wiki/Alaska_Permanent_Fund)",
+    "score": 1,
+    "children": []
+   },
+   {
+    "id": "t1_o33vmgq",
+    "text": "I dont see the government paying us to do nothing all day. The U.S. is $38 trillion in debt right now. There's no money for this.",
+    "score": 1,
+    "children": []
+   },
+   {
+    "id": "t1_o3iuomg",
+    "text": "To counter your point on layoffs, I think that if Hinton is correct on how fast AI is advancing, then those layoffs are coming anyway.\n\nJust about every company is going to be laying off workers to replace them with AI, causing mass unemployment.\n\nI think UBI is -- at the very least -- the temporary solution until we can figure out what the post-human labor economy will look like.\n\nIf mass unemployment happens without any sort of immediate fix, then humanity itself is going to be in trouble.",
+    "score": 1,
+    "children": []
+   },
+   {
+    "id": "t1_o3nvx47",
+    "text": "Outdated assumptions. When labor is no longer needed at scale, we need a new way to structure access to survival, meaning, and power. So start thinking about ways to do that. Inflationary is irrelevant, you’re not thinking thru abundance economics. Inflation is a design problem. It’s not a reason to not do UBI.",
+    "score": 1,
+    "children": []
+   },
+   {
+    "id": "t1_o7868we",
+    "text": "I propose something different: Hyper Self-Sufficiency\n\nPrinciple Reasons UBI Won’t Work:\n\n❌Leads to a situation where the rich own the means of supply, while they pay an extremely basic wage to everybody that increasing deflates in value. The same thing happened with Minimum Wage- it started off proportional, but as the currency inflates, all efforts to increase minimum wage were almost entirely blocked. \n\n❌The positive UBI trial results happen when only small portions of a population receive it. Once an entire population receives it, the value of currency shifts the same way handing out covid checks impacted the value of USD. It’s a confounding variable not accounted for in studies. The money becomes worthless. \n\n❌UBI leads to a system fundamentally dependent on Tyranny to continue, because it’s welfare funded by tyrants. It sounds good on paper, but it doesn’t translate when accounting for real world social psychology. Governments will use it to install authoritarian surveillance states that control all resources and supply based on your beliefs and behaviors. \n\nThe Solution? Hyper Self-Sufficiency, as detailed in my (free) essay. \n\n[Substack Article](https://open.substack.com/pub/amabernathy/p/future-threats-part-3?r=2o4j4e&utm_medium=ios)\n\nLet me know what you think. Am I a dumbass or do I have a point?",
+    "score": 1,
+    "children": []
+   },
+   {
+    "id": "t1_o2mgkmr",
+    "text": "Good idea? I believe it's a terrible idea. And I'm confident that it will never materialize in my lifetime.",
+    "score": 0,
+    "children": [
+     {
+      "id": "t1_o2ml5rf",
+      "text": "Any reasons you think it’d be a bad idea?\n\nAgree that I don’t think it’ll happen anytime soon either! But same can be said for the renewable transition",
+      "score": 1,
+      "children": [
+       {
+        "id": "t1_o2mtl9b",
+        "text": "Because just like all the other welfare programs in the US, it creates an unstoppable culture of unproductive behavior. This is why the inter cities are garbage all over the US.\n\nNothing but drugs and crime, because there is no incentive to do anything productive. They don't know any better. They are in this game generations deep and the only skill they have is knowing how to fill out which forms to keep the debit cards topped off indefinitely.\n\nThese people deserve better. I know you think you're helping them by advocating for welfare and UBI, but in reality, you're sentencing them, and their children, and their grandchildren, to a terrible life of poverty, drugs, and crime because they don't know any better.",
+        "score": -1,
+        "children": [
+         {
+          "id": "t1_o2mv41q",
+          "text": "Do you have any data or evidence to back this up? Because you're kinda contradicting yourself.\n\nWe do not currently have comprehensive welfare benefits.\n\n>creates an unstoppable culture of unproductive behavior. This is why the inter cities are garbage all over the US.\n\nSo then if this is currently true...why would increased welfare make things better?\n\n>no incentive to do anything productive.\n\nThere are no jobs to be had lmao you think people are homeless by choice?\n\n>They are in this game generations deep and the only skill they have is knowing how to fill out which forms to keep the debit cards topped off indefinitely.\n\nAgain, do you have any evidence or data here? Because the generational welfare myth was busted years ago. Tens of millions of people on SNAP require the benefits despite being fully employed. Their wages are just terrible.\n\n>you're sentencing them, and their children, and their grandchildren, to a terrible life of poverty, drugs, and crime because they don't know any better.\n\nIsn't that *exactly* what our hyper-inegalitarian system we have now is doing? The rich are getting richer while the poor increasingly barely scrape by. Still waiting for all that money to trickle down...",
+          "score": 1,
+          "children": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "t1_o2mlkaj",
+      "text": "Wow, deep dive into the issue.",
+      "score": 1,
+      "children": [
+       {
+        "id": "t1_o2mmty3",
+        "text": "I'm not here to convince the 14 year old wannabe marxists that have taken over this subreddit. Just stating my opinion and moving on.",
+        "score": 1,
+        "children": [
+         {
+          "id": "t1_o2nalt9",
+          "text": "![gif](giphy|KQm5O05y9rzQA)",
+          "score": 1,
+          "children": []
+         },
+         {
+          "id": "t1_o2mv7fv",
+          "text": "Brilliant take. You took the time to state your opinion. You could have just ignored it and moved on but here you are!",
+          "score": 0,
+          "children": [
+           {
+            "id": "t1_o2n6td0",
+            "text": "Ignoring it and moving on would mean you don’t learn.",
+            "score": 1,
+            "children": [
+             {
+              "id": "t1_o2nd4kj",
+              "text": "Fair enough, but then the insults aren't necessary, are they?",
+              "score": 1,
+              "children": [
+               {
+                "id": "t1_o2ngg88",
+                "text": "I don’t see names, just a description. Are you not 14? Your worldview seems underdeveloped. Either you’re young or you’re very sheltered.",
+                "score": 1,
+                "children": [
+                 {
+                  "id": "t1_o2ngocr",
+                  "text": "No clue what you're talking about with names.\n\nHow is my worldview underdeveloped?",
+                  "score": 1,
+                  "children": [
+                   {
+                    "id": "t1_o2nojmb",
+                    "text": "I think they were referring to me for some reason 🤷‍♂️",
+                    "score": 2,
+                    "children": [
+                     {
+                      "id": "t1_o2notks",
+                      "text": "You know something bothers people when they resort to insulting the person rather than the statement lol.",
+                      "score": 1,
+                      "children": [
+                       {
+                        "id": "t1_o2nuyzd",
+                        "text": "Yeah. Another form is “I don’t want to get political” or whatever. When people’s views based on the constant narrative they’re being fed by whatever source of information they get it from is suddenly not so clear, they lash out or stick their head in the sand.",
+                        "score": 1,
+                        "children": [
+                         {
+                          "id": "t1_o2nvvuj",
+                          "text": "In this case, calling a middle-aged guy (that doesn’t need to use Tst) with a family that travels all over the place and is self-supporting, a 14yo with no world view 😂",
+                          "score": 2,
+                          "children": [
+                           {
+                            "id": "t1_o2nwtoy",
+                            "text": "LMAO I wasn't gonna say anything....but",
+                            "score": 1,
+                            "children": []
+                           }
+                          ]
+                         },
+                         {
+                          "id": "t1_o2nx2gl",
+                          "text": "To be fair, there's plenty of research that if you use data or statistics to show someone their view is incorrect, studies show they'll double down on their already-held beliefs...so a fool's errand.\n\nThough I suppose that also applies to me! Trying to stay more open to new ideas, hence the post asking for input. Very happy to be proved wrong on UBI.",
+                          "score": 1,
+                          "children": []
+                         }
+                        ]
+                       }
+                      ]
+                     }
+                    ]
+                   }
+                  ]
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "id": "t1_o2mwswo",
+            "text": "Lol. I always end up getting sucked in",
+            "score": 0,
+            "children": []
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "t1_o2maq6d",
+    "text": "Breadlines",
+    "score": -1,
+    "children": []
+   }
+  ]
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "format": "mintree/1",
+ "title": "UBI: yes or no?",
+ "root": {
+  "id": "t3_bbb",
+  "text": "UBI: yes or no?",
+  "score": 80,
+  "children": [
+   {
+    "id": "t1_b1",
+    "text": "Automation will take most jobs, so UBI is needed.",
+    "score": 40,
+    "children": [
+     {
+      "id": "t1_b1r1",
+      "text": "UBI would cause inflation because everyone has more money to spend.",
+      "score": 15,
+      "children": [
+       {"id": "t1_b1r1r1", "text": "If it is funded by taxes the money supply does not change.", "score": 8, "children": []},
+       {"id": "t1_b1r1r2", "text": "This.", "score": 2, "children": []}
+      ]
+     }
+    ]
+   },
+   {
+    "id": "t1_b2",
+    "text": "Pilot studies in Finland showed no drop in employment.",
+    "score": 25,
+    "children": []
+   }
+  ]
+ }
+}
